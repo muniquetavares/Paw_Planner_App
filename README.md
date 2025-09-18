@@ -13,7 +13,7 @@ Please download the zip folders under the "code" folder
 To set up MySQL database, please follow below steps to import database dump:
 1. Open MySQL Workbench and connect to your database.
 2. Go to Server → Data Import.
-3. Choose Import Options. Select Import from Self-Contained File and browse to the dump file.
+3. Choose Import Options. Select Import from Self-Contained File and select a dump file.
 4. Click Start Import and wait for the process to complete.
 
 To run the frontend side, please open a new tab in the terminal, change the location to the pawplanner-frontend folder and input these commands:
