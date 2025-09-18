@@ -17,3 +17,22 @@ To run the frontend side, please open a new tab in the terminal, change the loca
 npm install
 npm install axios
 npm run dev
+
+## App Screenshots
+
+![Screenshot_App](images/screen1.png)
+![Screenshot_App](images/screen2.png)
+![Screenshot_App](images/screen3.png)
+![Screenshot_App](images/screen4.png)
+![Screenshot_App](images/screen5.png)
+![Screenshot_App](images/screen6.png)
+![Screenshot_App](images/screen7.png)
+![Screenshot_App](images/screen8.png)
+![Screenshot_App](images/screen9.png)
+![Screenshot_App](images/screen10.png)
+![Screenshot_App](images/screen11.png)
+![Screenshot_App](images/screen12.png)
+![Screenshot_App](images/screen13.png)
+![Screenshot_App](images/screen14.png)
+![Screenshot_App](images/screen15.png)
+![Screenshot_App](images/screen16.png)
