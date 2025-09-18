@@ -7,6 +7,9 @@ Users can register, manage pet profiles, and receive reminders for upcoming care
 - Collaborated on MySQL database design to securely store user and pet health data.
 - Technologies: JavaScript, React.js, Spring Boot, MySQL, GitHub, Postman
 
+## App Set-Up
+Please download the zip folders under the "code" folder
+
 To set up MySQL database, please follow below steps to import database dump:
 1. Open MySQL Workbench and connect to your database.
 2. Go to Server → Data Import.
