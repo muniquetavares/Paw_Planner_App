@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "pawplanner-frontend"
+		},
+		{
+			"path": "pawplanner-backend"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
